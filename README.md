@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwangi-upadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="shiwangi-upadhyay" /> </p>
 
-- 🌱 I’m currently learning **Web Dev, DSA, Python, ML**
+- 🌱 I’m currently learning **Web Dev, DSA**
 
-- 💬 Ask me about **React, DSA, Tailwind Css, Expressjs, MongoDb**
+- 💬 Ask me about **React, NextJs, DSA, Tailwind Css, Expressjs, MongoDb**
 
 - 📫 How to reach me **shiwangiupadhyay332@gmail.com**
 
